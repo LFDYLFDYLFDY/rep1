@@ -15,8 +15,9 @@ public class Main {
 
 
 
-        
+
         UserService userService = new UserService();
+
         User user = new User("Masha",26);
         userService.saveUser(user);
         Auto ferrari = new Auto("Ferrari", "red");
