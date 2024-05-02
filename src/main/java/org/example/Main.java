@@ -1,9 +1,5 @@
 package org.example;
 
-/**
- * Hello world!
- *
- */
 import org.example.models.Auto;
 import org.example.models.User;
 import org.example.services.UserService;
